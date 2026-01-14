@@ -5,7 +5,7 @@ Desarrollador **Full Stack • Web & Mobile** apasionado por crear sistemas mode
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/9ikNZpt.png" alt="MaicolDdox | Full Stack Developer Banner">
+  <img src="https://i.imgur.com/NJyEbmm.png" alt="MaicolDdox | Full Stack Developer Banner">
 </p>
 
 ---
